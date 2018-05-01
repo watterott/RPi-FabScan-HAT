@@ -10,11 +10,4 @@ Infos about the FabScan 3D-Scanner: http://www.fabscan.org
 * Connectors for Servo Motors
 * Laser control outputs
 * [Raspberry Pi HAT](https://github.com/raspberrypi/hats) compatible (40 pin connector)
-
-
-## Shop
-* [RPi-FabScan-HAT](http://www.watterott.com/en/RPi-FabScan-HAT)
-* [FabScan Pi Kit with Raspberry Pi](http://www.watterott.com/en/FabScan-Pi-kit-with-Raspberry-Pi)
-* [FabScan Pi Kit without Raspberry Pi](http://www.watterott.com/en/FabScan-Pi-kit-without-Raspberry-Pi)
-* [FabScan Pi Kit without Raspberry Pi & Camera](http://www.watterott.com/en/FabScan-Pi-Kit-without-Raspberry-Pi-Camera)
-* [All FabScan Pi Products](http://www.watterott.com/en/Kits/FabScan)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/fabscan/)**
