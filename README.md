@@ -10,4 +10,5 @@ Infos about the FabScan 3D-Scanner: http://www.fabscan.org
 * Connectors for Servo Motors
 * Laser control outputs
 * [Raspberry Pi HAT](https://github.com/raspberrypi/hats) compatible (40 pin connector)
-* **[Documentation on learn.watterott.com](http://learn.watterott.com/fabscan/)**
+* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
